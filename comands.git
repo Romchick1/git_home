@@ -1,0 +1,27 @@
+git status - показывает текуущее состояние Git repository
+git init 
+git add <file> Ex: . >> to index готовим определенные файлы к коммиту
+git congig --global user.name/user.email
+git commit >> to repository
+git commit -m "message" | Создание коммита с записьювсех изменений в репозиторий -m message
+git log -- история всех ихменений
+git checkout <commit hash> >> перейти к определенной версии >> from repository to working directory HEAD
+git checkout <branch name> to smth branch
+types of git objects
+blop is a file
+tree is a directory
+commit это просто указатель на дерево 
+anotated tag 
+
+
+_____Data contained in commit
+1 Name and email of autor
+2 Description of commit
+3 Parrents commits
+4 Tree
+
+
+Branch is a link on tree
+HEAD is a link on branch
+
+

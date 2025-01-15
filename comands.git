@@ -7,6 +7,13 @@ git commit -m "message" | Создание коммита с записьювс�
 git log -- история всех ихменений
 git checkout <commit hash> >> перейти к определенной версии >> from repository to working directory HEAD
 git checkout <branch name> to smth branch
+git branch <branch name> ---creating new branch
+git branch -b Создание ветки и переход в нее
+git branch ---- watch all branches 
+git branch -m <new branch name> --- rename branch
+-d  delete
+-m <new name> --- rename branch
+git merge ,feature branch name> -- Объединяет указанную ветку с текущей
 types of git objects
 blop is a file
 tree is a directory

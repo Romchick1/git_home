@@ -1,1 +1,2 @@
 I'm just add this file to check how working "git pull" in my local repository
+I'm editing this file in my local repository to check how working "git push"
